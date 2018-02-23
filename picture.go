@@ -1,7 +1,7 @@
 package main
 
 import (
-    "golang.org/x/tour/pic"
+    "./Git/tour/pic"
     "math"
 )
 
