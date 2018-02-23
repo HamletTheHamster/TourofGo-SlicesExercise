@@ -9,7 +9,7 @@ func Pic(dx, dy int) [][]uint8 {
     // Allocate 2D array
     picture := make([][]uint8, dy)
     for j := 0; j < dy; j++ {
-        picture[i] = make([]uint8, dx)
+        picture[j] = make([]uint8, dx)
     }
     
     // Make picture
