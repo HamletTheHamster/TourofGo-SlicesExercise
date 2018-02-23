@@ -17,7 +17,7 @@ func Pic(dx, dy int) [][]uint8 {
         for x := 0; x < dx; x++ {
             //picture[y][x] = uint8((x+y)/2)
             //picture[y][x] = uint8(x*y)
-            //a[y][x] = uint8(x^y)
+            //picture[y][x] = uint8(x^y)
             
             //picture[y][x] = uint8(math.Sin(float64(y)) + math.Sin(float64(x)))
             //picture[y][x] = uint8(x*x + y*y)
