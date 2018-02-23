@@ -1,7 +1,7 @@
 package main
 
 import (
-    "./Git/tour/pic"
+    "../tour/pic"
     "math"
 )
 
